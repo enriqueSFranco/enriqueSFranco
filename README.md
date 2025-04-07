@@ -21,15 +21,29 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
+  
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresql logo"  />
+
+  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="postgresql logo"  />
   <img width="12" />
   
+
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo"  />
+  <img width="12" />
+  
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo" />
+  <img width="12" />
+  
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
+  <img width="12" />
+  
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresql logo"  />
+  <img width="12" />
+
 </div>
 
 ###
