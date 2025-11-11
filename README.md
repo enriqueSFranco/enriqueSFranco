@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creando errores desde el 2017 (¡y aún resolviéndolos con estilo!)<br>📚 Actualmente estoy aprendiendo Java y C#<br>🎯 Metas: Transformar ideas locas en aplicaciones geniales (¡y siempre mejorar en el proceso!)<br>🎲 Dato curioso: ¡Mi pasatiempo es buscar el bug más pequeño en el código y celebrarlo como una victoria!</p>
+<p align="left">✨ Creando errores desde el 2017 (¡y aún resolviéndolos con estilo!)<br>📚 Actualmente estoy aprendiendo Python<br>🎯 Metas: Transformar ideas locas en aplicaciones geniales (¡y siempre mejorar en el proceso!)<br>🎲 Dato curioso: ¡Mi pasatiempo es buscar el bug más pequeño en el código y celebrarlo como una victoria!</p>
 
 ###
 
